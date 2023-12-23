@@ -2,7 +2,6 @@ package com.practice;
 
 public class Robot {
 
-
     String name;
     int age;
 
